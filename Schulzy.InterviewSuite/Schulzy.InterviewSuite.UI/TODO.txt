@@ -1,0 +1,4 @@
+﻿Aim: Create an application that can help practice or supervise some small coding examples.
+
+* Create UI
+* 
